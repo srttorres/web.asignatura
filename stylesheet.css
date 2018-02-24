@@ -1,0 +1,25 @@
+/*
+name:srttorres-bluegreen-2018;
+*/
+
+
+
+html { 
+	background: linear-gradient(to top, #00cc66, #006633) no-repeat;
+	font-size:medium; 
+	color:white;
+}
+h1{
+	font-size:medium;
+	text-align:center;
+}
+h2{
+	font-size:small;
+	text-align:left;
+	margin-left: 2em;
+}
+div{
+	margin: 0em 2em 2em 2em;
+	font-size:medium;
+	align-items: center;
+}
