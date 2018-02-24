@@ -5,7 +5,6 @@
 function connect_db($charset = "utf8"){
 	// Create connection
  	$db_connect = mysqli_connect ( "localhost", "davidjones", "releasethekraken", "bdasignatura" );
-	//$db_connect = mysqli_connect ( "127.0.0.1", "root", "", "pdl" );
 	
 	// Check connection
 	if (! $db_connect) {

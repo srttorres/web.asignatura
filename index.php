@@ -21,7 +21,7 @@ $TITULO_BLOQUE='TITULO_BLOQUE=null';
 <h1>PAGINA PRINCIPAL <?php echo "$TITULO_PAGINA"; ?></h1>
 
 <div>
-<?php include 'bloque_nuevoAlumno.php';?>
+<?php //include 'bloque_nuevoAlumno.php';?>
 </div>
 
 <div>
